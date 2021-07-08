@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @babe-saleh-mahfoud
-- 👀 I’m interested in Computer Networking, AI and Java.
+- 👀 I’m interested in Flutter and app development in general.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Java projects.
 - 📫 How to reach me :
