@@ -7,8 +7,8 @@ Email : babesalehmahfoud@gmail.com
 Telegram : https://t.me/Babe_Saleh_Mahfoud
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=babesalehmahfoud&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=babesalehmahfoud&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=babe-saleh-mahfoud&count_private=true&theme=light&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=babe-saleh-mahfoud&langs_count=5&theme=light)]()
 
 <!---
 babe-saleh-mahfoud/babe-saleh-mahfoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
