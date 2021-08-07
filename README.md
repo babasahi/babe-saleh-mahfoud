@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @babe-saleh-mahfoud
-- 👀 I’m interested in Flutter and app development in general.
+- 👀 I’m interested in 
+app development in general.
 - 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on Java projects.
+- 💞️ I’m looking to collaborate on Flutter projects.
 - 📫 How to reach me :
 Email : babesalehmahfoud@gmail.com
 Telegram : https://t.me/Babe_Saleh_Mahfoud
