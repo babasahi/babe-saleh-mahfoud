@@ -3,7 +3,7 @@
 app development in general.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Flutter projects.
-- 📫 How to reach me :
+- 📫 How to reach me : \
 Email : babesalehmahfoud@gmail.com \
 Linkedin : https://www.linkedin.com/in/babe-saleh-mahfoud-519b52200/  \
 Telegram : https://t.me/Babe_Saleh_Mahfoud
