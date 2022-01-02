@@ -2,11 +2,11 @@
 - 👀 I’m interested in 
 app development in general.
 - 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on Flutter projects.
-- 📫 How to reach me : \
-Email : babesalehmahfoud@gmail.com \
-Linkedin : https://www.linkedin.com/in/babe-saleh-mahfoud-519b52200/  
-Telegram : https://t.me/Babe_Saleh_Mahfoud
+- 💞️ I’m looking to collaborate on Flutter projects. <br />
+- 📫 How to reach me : <br />
+     [<img  alt="Babe Saleh Mahfoud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+     [<img  alt="Babe Saleh Mahfoud | Instagram" width="22px" src="https://img.icons8.com/ios-filled/344/telegram-app.png" />][telegram]
+<br />
  
 ## Languages and Tools
 <img align="left" alt="Flutter" width="32px" src="https://img.icons8.com/fluency/344/flutter.png" /> 
@@ -18,6 +18,10 @@ Telegram : https://t.me/Babe_Saleh_Mahfoud
 <img align="left" alt="CSS" width="32px" src="https://img.icons8.com/color/344/css3.png"/>  
 <img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/344/javascript--v1.png" /> <br /> <br /> 
 
+
+[telegram]: https://t.me/Babe_Saleh_Mahfoud
+[linkedin]: https://www.linkedin.com/in/babe-saleh-mahfoud-519b52200/
+<br /> <br /> 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babe-saleh-mahfoud&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <!---
