@@ -22,7 +22,7 @@ app development in general.
 [telegram]: https://t.me/Babe_Saleh_Mahfoud
 [linkedin]: https://www.linkedin.com/in/babe-saleh-mahfoud-519b52200/
 <br /> <br /> 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=babe-saleh-mahfoud&show_icons=true&theme=radical&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=babe-saleh-mahfoud&show_icons=true&theme=radical&count_private=true)
 
 <br/>
 <!---
