@@ -3,7 +3,7 @@
 app development in general.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Flutter projects. <br />
-- 📫 How to reach me : <br />
+- 📫 How to reach me : <br /> <br /> <br />
      [<img  alt="Babe Saleh Mahfoud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
      [<img  alt="Babe Saleh Mahfoud | Instagram" width="22px" src="https://img.icons8.com/ios-filled/344/telegram-app.png" />][telegram]
 <br />
