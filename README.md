@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Babe Saleh Mahfoud
+- 👋 Hi, I’m **Babe Saleh Mahfoud**
 - 👀 I’m interested in 
 app development in general.
 - 🌱 I’m currently learning Flutter.
