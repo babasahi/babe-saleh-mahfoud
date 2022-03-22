@@ -17,7 +17,7 @@ app development in general.
 <img align="left" alt="C" width="44px" src="https://img.icons8.com/color/344/c-programming.png" /> 
 <img align="left" alt="HTML" width="44px" src="https://img.icons8.com/color/344/html-5--v1.png" />
 <img align="left" alt="CSS" width="44px" src="https://img.icons8.com/color/344/css3.png"/>  
-<img align="left" alt="JavaScript" width="44px" src="https://img.icons8.com/color/344/javascript--v1.png" /> 
+<img align="left" alt="JavaScript" width="44px" src="https://img.icons8.com/color/344/javascript--v1.png" />  <br/>
 
 
 [telegram]: https://t.me/Babe_Saleh_Mahfoud
