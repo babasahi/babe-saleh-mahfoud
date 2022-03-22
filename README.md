@@ -9,15 +9,15 @@ app development in general.
 
 
 ## Languages and Tools
-<img align="left" alt="Flutter" width="40px" src="https://img.icons8.com/fluency/344/flutter.png" /> 
-<img align="left" alt="Linux" width="40px" src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" /> 
-<img align="left" alt="Dart" width="40px" src="https://img.icons8.com/color/344/dart.png" /> 
-<img align="left" alt="Firebase" width="40px" src="https://img.icons8.com/color/344/firebase.png" /> 
-<img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" /> 
-<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/344/c-programming.png" /> 
-<img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/344/html-5--v1.png" />
-<img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/344/css3.png"/>  
-<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/344/javascript--v1.png" /> <br /> <br /> 
+<img align="left" alt="Flutter" width="44px" src="https://img.icons8.com/fluency/344/flutter.png" /> 
+<img align="left" alt="Linux" width="44px" src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" /> 
+<img align="left" alt="Dart" width="44px" src="https://img.icons8.com/color/344/dart.png" /> 
+<img align="left" alt="Firebase" width="44px" src="https://img.icons8.com/color/344/firebase.png" /> 
+<img align="left" alt="Java" width="44px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" /> 
+<img align="left" alt="C" width="44px" src="https://img.icons8.com/color/344/c-programming.png" /> 
+<img align="left" alt="HTML" width="44px" src="https://img.icons8.com/color/344/html-5--v1.png" />
+<img align="left" alt="CSS" width="44px" src="https://img.icons8.com/color/344/css3.png"/>  
+<img align="left" alt="JavaScript" width="44px" src="https://img.icons8.com/color/344/javascript--v1.png" /> 
 
 [telegram]: https://t.me/Babe_Saleh_Mahfoud
 [linkedin]: https://www.linkedin.com/in/babe-saleh-mahfoud-519b52200/
