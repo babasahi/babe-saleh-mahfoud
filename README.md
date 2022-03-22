@@ -11,6 +11,7 @@ app development in general.
 
 ## Languages and Tools
 <img align="left" alt="Flutter" width="32px" src="https://img.icons8.com/fluency/344/flutter.png" /> 
+<img align="left" alt="Linux" width="32px" src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" /> 
 <img align="left" alt="Dart" width="32px" src="https://img.icons8.com/color/344/dart.png" /> 
 <img align="left" alt="Firebase" width="32px" src="https://img.icons8.com/color/344/firebase.png" /> 
 <img align="left" alt="Java" width="32px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" /> 
