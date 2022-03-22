@@ -3,12 +3,12 @@
 app development in general.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Flutter projects. <br />
-- 📫 How to reach me : <br />  <br /> 
+- 📫 How to reach me : 
      [<img  alt="Babe Saleh Mahfoud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
      [<img  alt="Babe Saleh Mahfoud | Instagram" width="22px" src="https://img.icons8.com/ios-filled/344/telegram-app.png" />][telegram]
-<br />
-## Languages and Tools
 
+
+## Languages and Tools
 <img align="left" alt="Flutter" width="40px" src="https://img.icons8.com/fluency/344/flutter.png" /> 
 <img align="left" alt="Linux" width="40px" src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" /> 
 <img align="left" alt="Dart" width="40px" src="https://img.icons8.com/color/344/dart.png" /> 
@@ -24,7 +24,7 @@ app development in general.
 <br /> <br /> 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=babe-saleh-mahfoud&show_icons=true&theme=radical&count_private=true)
 
-<br/>
+
 <!---
 babe-saleh-mahfoud/babe-saleh-mahfoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
