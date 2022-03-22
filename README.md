@@ -5,21 +5,18 @@ app development in general.
 - 💞️ I’m looking to collaborate on Flutter projects. <br />
 - 📫 How to reach me : <br />  <br /> 
      [<img  alt="Babe Saleh Mahfoud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-     
      [<img  alt="Babe Saleh Mahfoud | Instagram" width="22px" src="https://img.icons8.com/ios-filled/344/telegram-app.png" />][telegram]
 <br />
-
 ## Languages and Tools
 <img align="left" alt="Flutter" width="40px" src="https://img.icons8.com/fluency/344/flutter.png" /> 
 <img align="left" alt="Linux" width="40px" src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" /> 
 <img align="left" alt="Dart" width="40px" src="https://img.icons8.com/color/344/dart.png" /> 
-<img align="left" alt="Firebase" width="32px" src="https://img.icons8.com/color/344/firebase.png" /> 
-<img align="left" alt="Java" width="32px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" /> 
-<img align="left" alt="C" width="32px" src="https://img.icons8.com/color/344/c-programming.png" /> 
-<img align="left" alt="HTML" width="32px" src="https://img.icons8.com/color/344/html-5--v1.png" />
-<img align="left" alt="CSS" width="32px" src="https://img.icons8.com/color/344/css3.png"/>  
-<img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/344/javascript--v1.png" /> <br /> <br /> 
-
+<img align="left" alt="Firebase" width="40px" src="https://img.icons8.com/color/344/firebase.png" /> 
+<img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" /> 
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/344/c-programming.png" /> 
+<img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/344/html-5--v1.png" />
+<img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/344/css3.png"/>  
+<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/344/javascript--v1.png" /> <br /> <br /> 
 
 [telegram]: https://t.me/Babe_Saleh_Mahfoud
 [linkedin]: https://www.linkedin.com/in/babe-saleh-mahfoud-519b52200/
