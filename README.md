@@ -25,6 +25,7 @@ app development in general.
 <br /> <br /> 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=babe-saleh-mahfoud&show_icons=true&theme=radical&count_private=true)
 
+![](https://komarev.com/ghpvc/?username=babe-saleh-mahfoud)
 
 <!---
 babe-saleh-mahfoud/babe-saleh-mahfoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
