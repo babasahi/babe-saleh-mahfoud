@@ -6,8 +6,9 @@ app development in general.
 - 📫 How to reach me : <br/>
      [<img  alt="Babe Saleh Mahfoud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
      [<img  alt="Babe Saleh Mahfoud | Telegram" width="22px" src="https://img.icons8.com/ios-filled/344/telegram-app.png" />][telegram]
-     [<img  alt="Babe Saleh Mahfoud | Hackerrank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />][telegram]
-
+     [<img  alt="Babe Saleh Mahfoud | Hackerrank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />][Hackerrank]
+     [<img  alt="Babe Saleh Mahfoud | LeetCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][Leetcodee]
+    
 
 ## Languages and Tools
 <img align="left" alt="Flutter" width="44px" src="https://img.icons8.com/fluency/344/flutter.png" /> 
