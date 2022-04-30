@@ -3,9 +3,10 @@
 app development in general.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Flutter projects. <br />
-- 📫 How to reach me : 
+- 📫 How to reach me : <br/>
      [<img  alt="Babe Saleh Mahfoud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-     [<img  alt="Babe Saleh Mahfoud | Instagram" width="22px" src="https://img.icons8.com/ios-filled/344/telegram-app.png" />][telegram]
+     [<img  alt="Babe Saleh Mahfoud | Telegram" width="22px" src="https://img.icons8.com/ios-filled/344/telegram-app.png" />][telegram]
+     [<img  alt="Babe Saleh Mahfoud | Hackerrank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />][telegram]
 
 
 ## Languages and Tools
