@@ -1,7 +1,6 @@
 - 👋 Hi, I’m **Babe Saleh Mahfoud**
-- 👀 I’m interested in 
-app development in general.
-- 🌱 I’m currently learning Flutter.
+- 👀 I’m interested in Cross-Platform Mobile Development, ***Linux ecosystem*** and Low-level programming languages.
+- 🌱 I’m currently learning **Flutter**.
 - 💞️ I’m looking to collaborate on Flutter projects. <br />
 - 📫 How to reach me :&nbsp;
      [<img  alt="Babe Saleh Mahfoud | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin] &nbsp;
