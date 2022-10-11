@@ -1,36 +1,35 @@
-- 👋 Hi, I’m **Babe Saleh Mahfoud**
-- 👀 I’m interested in Cross-Platform Mobile Development, ***Linux ecosystem*** and Low-level programming languages.
-- 🌱 I’m currently learning **Flutter**.
-- 💞️ I’m looking to collaborate on Flutter projects. <br />
-- 📫 How to reach me :&nbsp;
-     [<img  alt="Babe Saleh Mahfoud | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin] &nbsp;
-     [<img  alt="Babe Saleh Mahfoud | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />][telegram] &nbsp;
-     [<img  alt="Babe Saleh Mahfoud | Hackerrank" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />][hackerrank] &nbsp;
-     [<img  alt="Babe Saleh Mahfoud | LeetCode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
-    
+<h1 align="center">Hi 👋, I'm Baba Saleh</h1>
+<h3 align="center">A Junior Frontend Developer | hands-on experience of 2 years in Flutter.</h3>
 
-## Languages and Tools
-<img align="left" alt="Flutter" width="44px" src="https://img.icons8.com/fluency/344/flutter.png" /> 
-<img align="left" alt="Linux" width="44px" src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" /> 
-<img align="left" alt="Dart" width="44px" src="https://img.icons8.com/color/344/dart.png" /> 
-<img align="left" alt="Firebase" width="44px" src="https://img.icons8.com/color/344/firebase.png" /> 
-<img align="left" alt="Java" width="44px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" /> 
-<img align="left" alt="C" width="44px" src="https://img.icons8.com/color/344/c-programming.png" /> 
-<img align="left" alt="HTML" width="44px" src="https://img.icons8.com/color/344/html-5--v1.png" />
-<img align="left" alt="CSS" width="44px" src="https://img.icons8.com/color/344/css3.png"/>  
-<img align="left" alt="JavaScript" width="44px" src="https://img.icons8.com/color/344/javascript--v1.png" />  <br/>
+- 🔭 I’m currently working on [Nebat](https://github.com/babe-saleh-mahfoud/Nebat)
 
+- 🌱 I’m currently learning **Rust, Penetration Testing, CCNA2**
 
-[telegram]: https://t.me/Babe_Saleh_Mahfoud
-[linkedin]: https://www.linkedin.com/in/babe-saleh-mahfoud-519b52200/
-[leetcode]: https://leetcode.com/babe_saleh_mahfoud/
-[hackerrank]: https://www.hackerrank.com/Babe_Saleh_Dahi
-<br /> <br /> 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=babe-saleh-mahfoud&show_icons=true&theme=radical&count_private=true)
+- 👯 I’m looking to collaborate on [dartfrog](https://github.com/VeryGoodOpenSource/dart_frog)
 
-![](https://komarev.com/ghpvc/?username=babe-saleh-mahfoud)
+- 🤝 I’m looking for help with [Nebat](https://github.com/babe-saleh-mahfoud/Nebat)
 
-<!---
-babe-saleh-mahfoud/babe-saleh-mahfoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍💻 All of my projects are available at [https://babe-saleh-mahfoud.github.io/](https://babe-saleh-mahfoud.github.io/)
+
+- 💬 Ask me about **Flutter, Linux, Java**
+
+- 📫 How to reach me **babesalehmahfoud@gmail.com**
+
+- 📄 Know about my experiences [https://bit.ly/3ClnNml](https://bit.ly/3ClnNml)
+
+- ⚡ Fun fact **Cinophile**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/babesalehmahfoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/babesalehmahfoud" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/babe-saleh-mahfoud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/babe-saleh-mahfoud/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/babe_saleh_dahi?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/babe_saleh_dahi?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/babe_saleh_mahfoud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/babe_saleh_mahfoud/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babe-saleh-mahfoud&show_icons=true&locale=en" alt="babe-saleh-mahfoud" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babe-saleh-mahfoud&" alt="babe-saleh-mahfoud" /></p>
