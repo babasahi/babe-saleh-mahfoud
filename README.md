@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Baba Saleh</h1>
 <h3 align="center">A Junior Frontend Developer | hands-on experience of 3 years in Flutter.</h3>
 
-- 🔭 I’m currently working on [Nebat](https://github.com/babe-saleh-mahfoud/Nebat)
+<!-- - 🔭 I’m currently working on [Nebat](https://github.com/babe-saleh-mahfoud/Nebat) -->
 
 - 🌱 I’m currently learning **Animations, Probability & Statistics, Widget & Integration Tests**
 
-- 👯 I’m looking to collaborate on [dartfrog](https://github.com/VeryGoodOpenSource/dart_frog)
-
-- 🤝 I’m looking for help with [Nebat](https://github.com/babe-saleh-mahfoud/Nebat
+<!-- - 👯 I’m looking to collaborate on [dartfrog](https://github.com/VeryGoodOpenSource/dart_frog) -->
+<!-- 
+- 🤝 I’m looking for help with [Nebat](https://github.com/babe-saleh-mahfoud/Nebat -->
 
 - 💬 Ask me about **Flutter, Linux, Java**
 
