@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [Nebat](https://github.com/babe-saleh-mahfoud/Nebat) -->
 
-- 🌱 I’m currently learning **Animations, Probability & Statistics, Widget & Integration Tests**
+- 🌱 I’m currently learning **Flutter Animations, Probability & Statistics, Widget & Integration Tests**
 
 <!-- - 👯 I’m looking to collaborate on [dartfrog](https://github.com/VeryGoodOpenSource/dart_frog) -->
 <!-- 
